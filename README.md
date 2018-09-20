@@ -41,7 +41,7 @@ Synopsis:
 
 ---
 
-The course will be followed by [Software Engineering 2](https://is.mendelu.cz/katalog/syllabus.pl?kode=PEF:SWI2).
+The course will be followed by [Software Engineering 2](https://is.mendelu.cz/katalog/syllabus.pl?kod=PEF:SWI2).
 
 Lessons will take place every week, in a workshop-like episodic fashion.
 
