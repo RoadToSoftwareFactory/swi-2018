@@ -14,7 +14,7 @@ There are 2 study groups:
 
 The topic will be Git, the whole semester.
 
-A VM image will be available (TODO: link) so that everybody can get the same environment.
+A VM image will be available so that everybody can get the same environment. (If you missed the class, you can still download it at https://himdel.eu/swi.ova, it will just take a long time to download.)
 
 
 Synopsis:
