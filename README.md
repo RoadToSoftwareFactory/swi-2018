@@ -39,6 +39,22 @@ Synopsis:
 6. (backup) - Advanced GIT topics - aliases, scripting, more configuration, .git directory structure  
   (There may not be a 6th lesson, depending on the calendar.)
 
+### Exercises
+
+- Basics (2nd class)
+  - Install some text editor if you don't like vim/nano
+  - Set git username and email
+  - Add a ssh key to your GitHub account
+  - Fork swi-2018 repository
+  - Clone the repository
+  - Set up remotes
+  - Create new branch
+  - Create a file `<github login>/commit.md` inside the repository
+  - Add some text to the file and create 1st commit
+  - Add the hash of the 1st commit to the file and create 2nd commit
+  - Add another line of text to the file, then add diff to the file and create 3rd commit
+  - Create a pull request to the swi-2018 repository
+
 ---
 
 The course will be followed by [Software Engineering 2](https://is.mendelu.cz/katalog/syllabus.pl?kod=PEF:SWI2).
