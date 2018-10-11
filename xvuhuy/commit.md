@@ -14,3 +14,4 @@ index 245ca2e..497711a 100644
  Hello world
  55b9492a9f7f8b79890aae0416f2f9c75d2545a8
 +dalsi radek
+Hello world
