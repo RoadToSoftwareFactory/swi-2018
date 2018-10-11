@@ -16,7 +16,29 @@ Isla kostra ku koznemu.
 
 Ide chlieb v noci po meste a od strachu sa rozkraja.
 
-Ide salonka po byte, potkne sa o gulu a napichne sa na spic.
+Ide salonka po byte, potkne sa o gulu a napichne sa na spic
 
+
+
+
+ahojojo.
+
+
+
+
+diff --git a/xhudec/commit.md b/xhudec/commit.md
+index c335aa1..48718ca 100644
+--- a/xhudec/commit.md
++++ b/xhudec/commit.md
+@@ -11,6 +11,10 @@ Isla kostra ku koznemu.
+ 
+ Ide chlieb v noci po meste a od strachu sa rozkraja.
+ 
+-Ide salonka po byte, potkne sa o gulu a napichne sa na spic.
++Ide salonka po byte, potkne sa o gulu a napichne sa na spic
++
++
++
++ahojojo.
 
 
