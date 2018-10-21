@@ -54,6 +54,10 @@ Synopsis:
   - Add the hash of the 1st commit to the file and create 2nd commit
   - Add another line of text to the file, then add diff to the file and create 3rd commit
   - Create a pull request to the swi-2018 repository
+- Synchronization (3rd class)
+  - Update your repository from upstream and push it
+  - Add additional remote from one of your classmates
+  - Create local branch from your classmates repostiory
 
 ---
 
