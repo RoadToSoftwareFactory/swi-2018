@@ -1,2 +1,14 @@
 hello
 a151dc13ae81582c473e6dff83c00971a8bdbfcb
+novy radek
+
+diff --git a/commitFix.txt b/commitFix.txt
+index 8b77bf5..a439655 100644
+--- a/commitFix.txt
++++ b/commitFix.txt
+@@ -1,2 +1,3 @@
+ hello
+-a151dc13ae81582c473e6dff83c00971a8bdbfcb
+\ No newline at end of file
++a151dc13ae81582c473e6dff83c00971a8bdbfcb
++novy radek
