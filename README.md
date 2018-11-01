@@ -2,6 +2,8 @@
 
 ## SWI 1
 
+Bagr
+
 These are materials for the [Software Engineering 1](http://is.mendelu.cz/katalog/syllabus.pl?kod=PEF:SWI1) course, taught on Mendel University in Brno, fall 2018.
 
 The intro lecture takes place on Monday 2018-09-24, 9:00, room Q13.
