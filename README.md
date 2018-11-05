@@ -58,7 +58,7 @@ Synopsis:
   - Update your repository from upstream and push it
   - Add additional remote from one of your classmates
   - Create local branch from your classmates repostiory
-- Conflicts and rebasing (4th class)
+- Conflicts and rebasing (4th class 1st group)
   - Part 1 (resolving conflicts)
     - Synchronize your PR branch from 2nd class with current master
     - Resolve any conflicts you have but, keep both changes in your file
