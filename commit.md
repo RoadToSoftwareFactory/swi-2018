@@ -1,4 +1,4 @@
-hello world
+hello world dnes je hezky den
 
 diff --git a/commit.md b/commit.md
 index 2cda915..208b313 100644
