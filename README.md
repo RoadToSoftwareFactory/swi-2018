@@ -58,6 +58,35 @@ Synopsis:
   - Update your repository from upstream and push it
   - Add additional remote from one of your classmates
   - Create local branch from your classmates repostiory
+- Conflicts and rebasing (4th class 1st group)
+  - Part 1 (resolving conflicts)
+    - Synchronize your PR branch from 2nd class with current master
+    - Resolve any conflicts you have but, keep both changes in your file
+    - **For those who had put their files in some other location than `uisLogin/commit.md`**
+      - move your PR file to folder that is named after your UIS login
+      - rename your file to `commit.md` if it has different name
+      - we need this to assign points (sorry about that)
+    - push updated PR
+  - Part 2 (rebasing)
+    - checkout to your branch with PR from 2nd class
+    - create new file at `uisLogin/rebasing.md` (you will be working with this file for the rest of this exercise)
+    - add some text to the file and create 1st commit (this is not the actual first commit of your branch, but we will call it that way)
+    - after that, add another text and copy contents of git diff to the file
+    - add the changes into the previous (1st) commit
+    - add another text and create 2nd commit
+    - check the commit hash of the 2nd commit
+    - add the hash of the 2nd commit to file, but add it as a new line of text to the 1st commit
+    - after that add another lines of text and create 3rd commit
+    - add another lines and create 4th commit
+    - check the commit hash of the 4th commit
+    - change the commit message of the 3rd commit to this: `<your-first-name>: <4th-commit-hash>`
+    - after that merge the 3rd and 4th commits into single one. Keep only the commit message of the 3rd commit.
+    - push your changes to gitHub
+  - This exercise will be rated
+  - If you get stuck on something try to search for a solution on Google first (just for a couple of minutes). If you find a solution but you are not confident it will solve your issue, just let us know ;-). But if you don't find any solution, ask us anyway and we will help you.
+  - If you finish sooner, you can help your classmates. You might get a bonus for that later!
+
+
 
 ---
 

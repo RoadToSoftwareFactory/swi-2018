@@ -26,3 +26,5 @@ index c985ed3..da7f012 100644
 +
 +new test text
 
+conflict changes
+- keep both your change and this change
