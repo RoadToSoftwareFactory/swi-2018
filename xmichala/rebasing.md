@@ -12,3 +12,6 @@ index 7b57bd2..12004f9 100644
 
 a4751b8c53ee38824307c37349350fd2b01cd868
 more text
+
+some more text 3rd commit
+another 4th commit
