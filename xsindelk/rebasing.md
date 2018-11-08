@@ -12,3 +12,9 @@ index c86fc36..3d34c86 100644
 +toto je dalsi text pridan po prvnim commitu
 \ No newline at end of file
 toto je dalsi text pro druhy commit pote co jsem udelal --amend
+
+toto je
+text v ramci tretiho commitu
+
+
+toto je text v ramci ctvrteho commitu
