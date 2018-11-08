@@ -13,4 +13,6 @@ index ea2fd5c..6a71071 100644
 +
 +Interesting, it is not interesting at all.
 
+lines from third commit
 
+lines from fourth commit
