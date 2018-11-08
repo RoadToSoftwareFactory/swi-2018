@@ -15,3 +15,7 @@ index 11b7237..370680b 100644
 
 jedeme si dalsi zmeny rututu
 
+
+a jedeme si zmeny na 3. commit juchuuuuuuu
+
+aby toho nebylo malo tak si dame jeste 4. commit wooooouuuu
