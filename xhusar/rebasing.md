@@ -10,3 +10,5 @@ index e7a3ea6..315da0e 100644
 +
 +Text for diff
 
+
+Text for second commit
