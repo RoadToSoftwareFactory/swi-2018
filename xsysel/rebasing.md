@@ -9,4 +9,5 @@ index 92208d5..c238177 100644
  pridavam novy text
 +pridavam dalsi text
 
-pridavam dalsi text
+pridavam dalsi text (3rd commit)
+a dalsi radek pro 4th commit 
