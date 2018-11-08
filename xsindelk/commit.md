@@ -12,3 +12,5 @@ index e74418d..60f720a 100644
 +caf59fe54db33bda8ce7374317355f25f5482bef
 +toto je dalsi text
 \ No newline at end of file
+conflict changes
+- keep both your change and this change
