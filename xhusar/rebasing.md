@@ -10,5 +10,10 @@ index e7a3ea6..315da0e 100644
 +
 +Text for diff
 
-
 Text for second commit
+
+Text for third commit
+
+Text for another commit
+smile 
+smile
