@@ -10,4 +10,9 @@ index 006f70f..6476a2b 100644
  Dobry vecer, priatelia, vybehnime na polia
 +
 +caka naaaas, prvaa noc, plnaaa eufooorie
+
 577391b5539b6a745e4f6460e59f46350a8f9ac3
+
+
+saxofon
+feb7b25... second commit
