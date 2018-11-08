@@ -18,4 +18,11 @@ c312c4d112118190b3515eb22666a02f103d7495
 This is text for second commit
 
 
+these
+are
+lines
+for 3rd commit
 
+
+lines
+for 4th commit
