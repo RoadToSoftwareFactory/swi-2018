@@ -9,3 +9,6 @@ index c249a0a..ec29355 100644
 +So this line should be vissible in git diff
 36d7cad783aeacc0ac9e9d8ed48d48d4bab0289c - hash of second commit
 And this line is after git diff
+These 2 lines are content
+of 3rd commit in my branch
+Line of 4th commit
