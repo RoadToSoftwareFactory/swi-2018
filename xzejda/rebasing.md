@@ -13,3 +13,4 @@ index e5ca261..bcd0fd0 100644
 +
 +Novy radecek... QQ
 
+Dalsi Novy radecik... QQ
