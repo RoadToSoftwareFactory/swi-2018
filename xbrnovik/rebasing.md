@@ -9,3 +9,5 @@ index 686f728..ce5c34c 100644
  Prvy text.
 +Druhy text.
 Treti text.
+Stvrty text.
+Piaty text.
