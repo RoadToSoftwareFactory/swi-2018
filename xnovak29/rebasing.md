@@ -12,3 +12,4 @@ index 787691a..aac7341 100644
 +
 +second rebase commit
 
+second(third) rebase commit - second version
