@@ -6,6 +6,7 @@ These are materials for the [Software Engineering 1](http://is.mendelu.cz/katalo
 
 The intro lecture takes place on Monday 2018-09-24, 9:00, room Q13.
 
+
 There are 2 study groups:
 
    * starting on 2018-09-27 (every 2 weeks, odd weeks), led by @ZitaNemeckova and @himdel
