@@ -9,3 +9,4 @@ index 92208d5..c238177 100644
  pridavam novy text
 +pridavam dalsi text
 
+pridavam dalsi text
