@@ -12,3 +12,6 @@ index 11b7237..370680b 100644
 
 
 4718a40f20c1e512d1100793b37fd46be99824dd
+
+jedeme si dalsi zmeny rututu
+
