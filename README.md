@@ -85,9 +85,26 @@ Synopsis:
   - This exercise will be rated
   - If you get stuck on something try to search for a solution on Google first (just for a couple of minutes). If you find a solution but you are not confident it will solve your issue, just let us know ;-). But if you don't find any solution, ask us anyway and we will help you.
   - If you finish sooner, you can help your classmates. You might get a bonus for that later!
-
-
-
+- Conflicts and rebasing (**4th class 2nd group**)
+  - Part 1 (Resolving conflicts)
+    - Update your master
+    - Checkout a new branch
+    - Make changes to `rebase_task` file and create a PR
+    - After everyone is done conflict will be merged
+    - Update your master and branch
+    - Resolve conflicts
+    - Push changes
+  - Part 2 (interactive rebase)
+    - Make changes to `interactive_rebase_task` file but every change **MUST** be in separated commit
+    - Push all changes
+    - Delete commit with your favorite color
+    - Rename commit with your favorite season to something in UPPERCASE
+    - Edit commit with your favorite city so it's Helsinki 
+    - Squash all food related commits into one (hint ice cream, vegetables, fruit)
+    - When done mention one of instructors in a comment (if you are the first one and everything is done correctly you will get a GitHub code for free t-shirt via Gitter) 
+  - This exercise will NOT be rated but the one next week will be (and it will be pretty much the same as this one)
+  - If you get stuck on something try to search for a solution on Google first (just for a couple of minutes). If you find a solution but you are not confident it will solve your issue, just let us know ;-). But if you don't find any solution, ask us anyway and we will help you.
+  - If you finish sooner, you can help your classmates. You might get a bonus for that later!
 ---
 
 The course will be followed by [Software Engineering 2](https://is.mendelu.cz/katalog/syllabus.pl?kod=PEF:SWI2).
