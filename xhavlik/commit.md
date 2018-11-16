@@ -10,3 +10,5 @@ index 0000000..0ae20b8
 +*** xhavlik - Jan Havlik ***
 +f91cfb32db1b5e1e98792b247e3f8a5f6f6f57a2
 +ping 127.0.0.1
+conflict changes
+- keep both your change and this change
