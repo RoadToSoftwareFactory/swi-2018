@@ -11,3 +11,6 @@ index ed34faf..1945bca 100644
 
 want to add another text a create 2 commit
 
+this is hash of 2 commit: 170a9dd
+
+want to add another text a create 3 commit
