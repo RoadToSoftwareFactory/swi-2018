@@ -12,3 +12,8 @@ index b2d8968..3cc8439 100644
 +next text
 
 anther text and creating a new commit
+
+another text of 3rd commit
+testetstetsfb
+
+another text of 4th commit
