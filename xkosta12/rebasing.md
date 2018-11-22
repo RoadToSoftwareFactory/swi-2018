@@ -8,3 +8,6 @@ index 7b57bd2..eddd146 100644
 @@ -1 +1,2 @@
  some text
 +another text
+
+
+text for second commit
