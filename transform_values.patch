@@ -1,0 +1,12 @@
+diff --git a/double_hash.rb b/double_hash.rb
+index cd9d72c..cfa6db8 100644
+--- a/double_hash.rb
++++ b/double_hash.rb
+@@ -1,5 +1,4 @@
+-h = {:bacon => 200, :coconut => 300}
+-h.each { |k,v| h[k] = v*2 }
+-
+ # result is {:bacon=>400, :coconut=>600}
+ 
++h = {:bacon => 200, :coconut => 300}
++h.transform_values! { |v| v * 2 }
