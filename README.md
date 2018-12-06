@@ -85,8 +85,57 @@ Synopsis:
   - This exercise will be rated
   - If you get stuck on something try to search for a solution on Google first (just for a couple of minutes). If you find a solution but you are not confident it will solve your issue, just let us know ;-). But if you don't find any solution, ask us anyway and we will help you.
   - If you finish sooner, you can help your classmates. You might get a bonus for that later!
-
-
+- Conflicts and rebasing (**4th class 2nd group**)
+  - Part 1 (Resolving conflicts)
+    - Update your master
+    - Checkout a new branch
+    - Make changes to `rebase_task` file and create a PR
+    - After everyone is done conflict will be merged
+    - Update your master and branch
+    - Resolve conflicts
+    - Push changes
+  - Part 2 (interactive rebase)
+    - Make changes to `interactive_rebase_task` file but every change **MUST** be in separated commit
+    - Push all changes
+    - Delete commit with your favorite color
+    - Rename commit with your favorite season to something in UPPERCASE
+    - Edit commit with your favorite city so it's Helsinki 
+    - Squash all food related commits into one (hint ice cream, vegetables, fruit)
+    - When done mention one of instructors in a comment (if you are the first one and everything is done correctly you will get a GitHub code for free t-shirt via Gitter) 
+  - This exercise will NOT be rated but the one next week will be (and it will be pretty much the same as this one)
+  - If you get stuck on something try to search for a solution on Google first (just for a couple of minutes). If you find a solution but you are not confident it will solve your issue, just let us know ;-). But if you don't find any solution, ask us anyway and we will help you.
+  - If you finish sooner, you can help your classmates. You might get a bonus for that later!
+- Useful usages (**last class 1st group**)
+    - Topics
+        - (1) How to "transfer" change (not from commit)
+        - (2) How to "transfer" change (from commit)
+        - (3) How to remove file from commit
+    - (1) How to
+        - `git-apply` or `git apply` (https://git-scm.com/docs/git-apply)
+        - git apply <name_of_file>
+    - (2) How to
+        - git cherry-pick <commit_hahs> (https://git-scm.com/docs/git-cherry-pick)
+    - (3) How to remove file from commit
+        - git reset --soft (git reset --hard)
+        - https://stackoverflow.com/questions/12481639/remove-files-from-git-commit
+    - Your task
+        - (0) 
+            - sync the repo from master (check with `git log` that you last commit with name `last class`)
+            - you will need to create new PR - (it means you need a new branch)
+            - you will need to add my fork of repo as remote
+        - (A) 
+            - you can download it by `curl https://raw.githubusercontent.com/RoadToSoftwareFactory/swi-2018/master/transform_values.patch > transform_values.patch`
+            - apply patch from https://github.com/RoadToSoftwareFactory/swi-2018/blob/master/transform_values.patch
+            - now you have some changes - create a commit
+        - (B) 
+            - find a switch for cherry pick command which will append original commit hash to new commit message created by cherry-pick
+            - cherry pick (with using the switch ^ )the only commit from my(lpichler) PR in repo https://github.com/RoadToSoftwareFactory/swi-2018
+        - (C) 
+            - remove file accident.1 from cherry picked commit
+        - (D) 
+            - Create PR - check that you have 2 commits
+        - (E) 
+            - help class mates
 
 ---
 
