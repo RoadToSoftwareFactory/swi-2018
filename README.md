@@ -137,6 +137,20 @@ Synopsis:
         - (E) 
             - help class mates
 
+- Graded exercise (**last class 2nd group**)
+  - Interactive rebase
+    - update your local repository
+    - Fill out `interactive_rebase_task` file but every change on a line **MUST** be in separated commit (you should have six commits)
+    - Push all changes and create a PR
+    - Write your uni login in the description of your PR
+    - Now use interactive rebase to make the following changes:
+      - Drop commit with your favorite color
+      - Reword commit with your favorite season to something in UPPERCASE
+      - Edit commit with your favorite city so it's Helsinki 
+      - Squash all food related commits into one (hint ice cream, vegetables, fruit)
+    - Force push your changes
+    - When you checked that everything is on Github correctly mention one of instructors in your PR
+  - Feel free to Google :)
 ---
 
 The course will be followed by [Software Engineering 2](https://is.mendelu.cz/katalog/syllabus.pl?kod=PEF:SWI2).
