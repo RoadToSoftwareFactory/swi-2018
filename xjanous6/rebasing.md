@@ -14,4 +14,10 @@ index bcfcbd1..edadeef 100644
 +
 +udewgfiwiduchh
 
-fnreklnfrkenlfvnefkonvkln
+fnreklnfrkenlfvnefkonvkl
+13.prosince pridavam dalsi radek, abych udelal nasledne 3.commit
+13.prosince dalsi radek pro 4.commit
+
+
+
+
