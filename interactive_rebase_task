@@ -1,20 +1,24 @@
-Your favorite fruit: ...
+Your favorite fruit: apple
 
 
 Your favorite city: Prague
 
 
-Your favorite vegetable: ...
+Your favorite vegetable: onion
 
 
 Your favorite color: ...
 
 
-Your favorite icecream: ...
+Your favorite icecream: vanilla
 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 Your favorite season: ...
 =======
 Your favorite season: fall
 >>>>>>> 62e523c... fav season
+=======
+Your favorite season: ...
+>>>>>>> c265125... fav fruit
