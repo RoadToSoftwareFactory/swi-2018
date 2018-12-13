@@ -18,7 +18,11 @@ Your favorite season: ...
 =======
 Your favorite fruit: Apple,
 <<<<<<< HEAD
+<<<<<<< HEAD
 Your favorite city: Brno
+=======
+Your favorite city: Brno,
+>>>>>>> 685fc96... second commit
 Your favorite vegetable: Beer
 =======
 Your favorite city: Brno,
