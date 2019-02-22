@@ -6,6 +6,8 @@ These are materials for the [Software Engineering 2](http://is.mendelu.cz/katalo
 
 This semester is structured as a set of topical workshops:
 
+|1st|2nd|Topic|People|
+|---|---|---|---|
 |18.2|20.2|Development cycle|Bohdan Iakymets|
 |25.2|27.2|ORM|Libor Pichler, Alexander Demicev|
 |4.3|6.3|(null)|
@@ -18,8 +20,6 @@ This semester is structured as a set of topical workshops:
 |22.4|24.4|(Easter Holidays)|
 |29.4|1.5|Refactoring|Zita Nemeckova|
 |6.5|8.5|Documentation|Jaromir Hradilek|
-
-
 
 ## SWI 1
 
